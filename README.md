@@ -3,6 +3,4 @@
 
 - 💻 I’m studying Software Engineering at the Universidad Autónoma de Nuevo León
 
-- 🏀 Pronouns: He/Him/Él
-
 - 👽 How to reach me: garavitogerardo@gmail.com
