@@ -4,7 +4,7 @@ Hi 👋 My name is Gerardo Garavito
 Front-End Developer
 -------------------
 
-I've been learning code for 2 year. I'm experienced on React and React-native. I am currently finishing my last year of my Software Engineer Degree in Universidad Autónoma de Nuevo León
+I've been coding for 2 year. I'm experienced on React and React-native. I am currently finishing my last year of my Software Engineer Degree in Universidad Autónoma de Nuevo León
 
 * 🌍  I'm based in Monterrey, MX
 * 🖥️  See my portfolio at [gerardogaravito](http://gerardogaravito.vercel.app/)
