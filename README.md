@@ -4,13 +4,14 @@ Hi 👋 My name is Gerardo Garavito
 Front-End Developer
 -------------------
 
-I've been coding for 2 year. I'm experienced on React and React-native. I am currently finishing my last year of my Software Engineer Degree in Universidad Autónoma de Nuevo León
+I've been learning code for 2 year. I'm experienced on React and React-native. I am currently finishing my last year of my Software Engineer Degree in Universidad Autónoma de Nuevo León
 
-* 🌍  I'm based in Monterrey, MX
-* 🖥️  See my portfolio at [gerardogaravito](http://gerardogaravito.vercel.app/)
-* ✉️  You can contact me at [garavitogerardo@gmail.com](mailto:garavitogerardo@gmail.com)
-* 🤝  I'm open to collaborating on web projects
-* ⚡  I can fakie heelflip
+* 🌍  I'm based in Monterrey, MX
+* 🖥️  See my portfolio at [gerardogaravito](http://gerardogaravito.vercel.app/)
+* ✉️  You can contact me at [garavitogerardo@gmail.com](mailto:garavitogerardo@gmail.com)
+* 🚀  I'm currently working on [Vitau Mobile App](http://vitau.mx/)
+* 🤝  I'm open to collaborating on web projects
+* ⚡  I can fakie heelflip
 
 ### Skills
 
@@ -29,6 +30,7 @@ I've been coding for 2 year. I'm experienced on React and React-native. I am cur
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 
 ### Socials
 
