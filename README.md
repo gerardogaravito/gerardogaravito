@@ -1,4 +1,4 @@
-Hi 👋 My name is Gerardo Garavito
+Gerardo Garavito
 =================================
 
 Front-End Developer
