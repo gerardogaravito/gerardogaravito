@@ -10,8 +10,7 @@ I've been coding web for 2 year. I'm experienced on React and React-native. I am
 * 🖥️  See my portfolio at [gerardogaravito](http://gerardogaravito.vercel.app/)
 * ✉️  You can contact me at [garavitogerardo@gmail.com](mailto:garavitogerardo@gmail.com)
 * 🚀  I'm currently working on [Vitau Mobile App](http://vitau.mx/)
-* 🤝  I'm open to collaborating on web projects
-* ⚡  I can fakie heelflip
+* ⚡  can fakie heelflip
 
 ### Skills
 
