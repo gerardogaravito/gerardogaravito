@@ -6,11 +6,11 @@ Front-End Developer
 
 I've been coding web for 2 year. I'm experienced on React and React-native. I am currently finishing my last year of my Software Engineer Degree in Universidad Autónoma de Nuevo León
 
-* 🌍  I'm based in Monterrey, MX
-* 🖥️  See my portfolio at [gerardogaravito](http://gerardogaravito.vercel.app/)
-* ✉️  You can contact me at [garavitogerardo@gmail.com](mailto:garavitogerardo@gmail.com)
-* 🚀  I'm currently working on [Vitau Mobile App](http://vitau.mx/)
-* ⚡  can fakie heelflip
+* I'm based in Monterrey, MX
+* See my portfolio at [gerardogaravito](http://gerardogaravito.vercel.app/)
+* You can contact me at [garavitogerardo@gmail.com](mailto:garavitogerardo@gmail.com)
+* I'm currently working on [Vitau Mobile App](http://vitau.mx/)
+* Can fakie heelflip
 
 ### Skills
 
