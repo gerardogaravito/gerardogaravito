@@ -9,7 +9,7 @@ I've been coding web since 2020. I'm experienced on React and React-native. Soft
 * I'm based in Monterrey, MX
 * See my portfolio at [gerardogaravito](http://gerardogaravito.vercel.app/)
 * You can contact me at [garavitogerardo@gmail.com](mailto:garavitogerardo@gmail.com)
-* I'm currently working on [Vitau Mobile App](http://vitau.mx/)
+* I'm currently working on [Wirebit Web and Mobile app](https://wirebit.com/)
 * Can fakie heelflip
 
 ### Skills
