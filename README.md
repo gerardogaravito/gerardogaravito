@@ -7,5 +7,5 @@ software engineer
 
 
 
-[portfolio_____](https://garavito.dev)
+[portfolio_____](https://garavito.dev) \
 [contact@garavito.dev](mailto:contact@garavito.dev)
